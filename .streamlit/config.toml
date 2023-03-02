@@ -1,0 +1,6 @@
+streamlit==1.11.0
+plotly==5.4.0
+numpy==1.21.4
+pyarrow==10.0.1
+snowflake-snowpark-python
+pandas
